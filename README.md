@@ -1,3 +1,7 @@
+Старая версия проекта с большим количеством изъянов. 
+
+Актуальная версия по ссылке: https://github.com/Dorozhkin/Forecast
+
 Приложение не пройдёт билд, так как файл с ключом от API лежит отдельно. Зато в /app/build/outputs/apk/debug/  лежит готовый APK.
 
 ![alt text](https://sun9-67.userapi.com/impg/b5to8UHuSHO6-9ZRuO4fRm1xTWNwiuwjQKngUg/22ZRUdBpna8.jpg?size=400x866&quality=96&sign=a38bdbf0f7b9a93c783505bfa018be39&type=album)
